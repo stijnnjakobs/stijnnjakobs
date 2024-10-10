@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stijnnjakobs" alt="stijnnjakobs" /></a> </p>
 
-- 🔭 I’m currently working on [FlashLearn](https://flashlearn.nl)
+- 🔭 I’m currently working on [Numblio](https://numblio.com)
 
 - 🌱 I’m currently learning **React, Typescript**
 
-- 🤝 I’m looking for help with [NCLE™ Solutions](https://nclesolutions.com)
+- 🤝 I’m looking for help with [Numblio](https://numblio.com)
 
 - 💬 Ask me about **PHP, Laravel, Java**
 
